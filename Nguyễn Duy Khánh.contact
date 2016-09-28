@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2016-09-28T15:40:49Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="9810e0a1-d219-4e8b-99ee-a8438f2264ac"><c:Value>9db9b6c1-4b1e-4287-a704-3db70479cdd8</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="581965d4-e114-454c-821c-30f57dda36cf"><c:NickName>Sói Băng</c:NickName><c:FormattedName>Nguyễn Duy Khánh</c:FormattedName><c:FamilyName>Khánh</c:FamilyName><c:MiddleName>Duy</c:MiddleName><c:GivenName>Nguyễn</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="5fc0868a-81a9-4df5-ae0e-f864d4d8003f"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
